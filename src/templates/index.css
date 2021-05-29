@@ -1,0 +1,40 @@
+body{
+	background: url("bgm.JPG");
+}
+.row-top-space {
+	margin-top: 80px;
+	margin-left: 30%;
+}
+
+.align-center {
+	text-align: center;
+	margin-left: auto;
+}
+
+button {
+	cursor: pointer;
+}
+.card-header
+{
+	background-color: #00cc66;
+	cursor: default;
+}
+.card-body{
+	cursor: default;
+}
+/*Form starts
+
+form{
+	margin-left: -25%;
+}
+.search{
+	background-color: #00cc66;
+	border-radius: 20px;
+	width: 75px;
+	border-color:#00cc66;
+}
+.search:hover{
+	font-weight: bold;
+}
+
+Form ends*/

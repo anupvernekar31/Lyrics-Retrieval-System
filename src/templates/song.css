@@ -1,0 +1,24 @@
+body{
+	background: url("bgm.JPG");
+	background-size: cover;
+	background-attachment: fixed;
+	margin:0px;
+	padding: 0px;
+}
+.row-top-space {
+	margin-top: 20px;
+}
+.col-6{
+	border-radius: 25px;
+	background: rgba(0, 0, 0, 0.5);
+	color: #fff;
+	padding-left: 25px;
+}
+.gbr a{
+	background-color: #00cc66;
+	color: #fff;
+	border:#00cc66;
+}
+.gbr a:hover{
+	font-weight: bold;
+}

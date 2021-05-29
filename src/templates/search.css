@@ -1,0 +1,14 @@
+body{
+	background: url("bgm.JPG");
+}
+.row-top-space {
+	margin-top: 20px;
+}
+
+.align-center {
+	text-align: center;
+}
+
+button {
+	cursor: pointer;
+}
